@@ -1,0 +1,14 @@
+/home/wallace/2003944/Advanced Application Programming/First_Console/bin/Debug/net8.0/First_Console
+/home/wallace/2003944/Advanced Application Programming/First_Console/bin/Debug/net8.0/First_Console.deps.json
+/home/wallace/2003944/Advanced Application Programming/First_Console/bin/Debug/net8.0/First_Console.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/First_Console/bin/Debug/net8.0/First_Console.dll
+/home/wallace/2003944/Advanced Application Programming/First_Console/bin/Debug/net8.0/First_Console.pdb
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.dll
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/refint/First_Console.dll
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.pdb
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/First_Console.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/First_Console/obj/Debug/net8.0/ref/First_Console.dll
