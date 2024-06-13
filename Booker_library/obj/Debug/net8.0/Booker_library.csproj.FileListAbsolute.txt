@@ -1,0 +1,15 @@
+/home/wallace/2003944/Advanced Application Programming/Booker_library/bin/Debug/net8.0/Booker_library
+/home/wallace/2003944/Advanced Application Programming/Booker_library/bin/Debug/net8.0/Booker_library.deps.json
+/home/wallace/2003944/Advanced Application Programming/Booker_library/bin/Debug/net8.0/Booker_library.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/Booker_library/bin/Debug/net8.0/Booker_library.dll
+/home/wallace/2003944/Advanced Application Programming/Booker_library/bin/Debug/net8.0/Booker_library.pdb
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.sourcelink.json
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.dll
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/refint/Booker_library.dll
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.pdb
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/Booker_library.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/Booker_library/obj/Debug/net8.0/ref/Booker_library.dll
