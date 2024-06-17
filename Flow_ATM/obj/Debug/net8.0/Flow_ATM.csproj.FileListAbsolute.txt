@@ -1,0 +1,5 @@
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.sourcelink.json
