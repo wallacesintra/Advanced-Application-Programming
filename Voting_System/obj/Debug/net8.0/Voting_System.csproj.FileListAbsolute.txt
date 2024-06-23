@@ -1,0 +1,15 @@
+/home/wallace/2003944/Advanced Application Programming/Voting_System/bin/Debug/net8.0/Voting_System
+/home/wallace/2003944/Advanced Application Programming/Voting_System/bin/Debug/net8.0/Voting_System.deps.json
+/home/wallace/2003944/Advanced Application Programming/Voting_System/bin/Debug/net8.0/Voting_System.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/Voting_System/bin/Debug/net8.0/Voting_System.dll
+/home/wallace/2003944/Advanced Application Programming/Voting_System/bin/Debug/net8.0/Voting_System.pdb
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.sourcelink.json
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.dll
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/refint/Voting_System.dll
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.pdb
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/Voting_System.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/Voting_System/obj/Debug/net8.0/ref/Voting_System.dll

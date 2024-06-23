@@ -1,0 +1,15 @@
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/bin/Debug/net8.0/Bonga_reward
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/bin/Debug/net8.0/Bonga_reward.deps.json
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/bin/Debug/net8.0/Bonga_reward.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/bin/Debug/net8.0/Bonga_reward.dll
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/bin/Debug/net8.0/Bonga_reward.pdb
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.sourcelink.json
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.dll
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/refint/Bonga_reward.dll
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.pdb
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/Bonga_reward.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/Bonga_reward/obj/Debug/net8.0/ref/Bonga_reward.dll
