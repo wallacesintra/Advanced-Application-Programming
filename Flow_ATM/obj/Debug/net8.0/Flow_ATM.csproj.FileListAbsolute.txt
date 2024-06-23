@@ -3,3 +3,13 @@
 /home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.AssemblyInfo.cs
 /home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.csproj.CoreCompileInputs.cache
 /home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.sourcelink.json
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/bin/Debug/net8.0/Flow_ATM
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/bin/Debug/net8.0/Flow_ATM.deps.json
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/bin/Debug/net8.0/Flow_ATM.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/bin/Debug/net8.0/Flow_ATM.dll
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/bin/Debug/net8.0/Flow_ATM.pdb
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.dll
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/refint/Flow_ATM.dll
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.pdb
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/Flow_ATM.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/Flow_ATM/obj/Debug/net8.0/ref/Flow_ATM.dll
