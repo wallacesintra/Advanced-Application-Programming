@@ -1,0 +1,15 @@
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.AssemblyInfoInputs.cache
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.AssemblyInfo.cs
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.csproj.CoreCompileInputs.cache
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.sourcelink.json
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/bin/Debug/net8.0/ResultSystem
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/bin/Debug/net8.0/ResultSystem.deps.json
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/bin/Debug/net8.0/ResultSystem.runtimeconfig.json
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/bin/Debug/net8.0/ResultSystem.dll
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/bin/Debug/net8.0/ResultSystem.pdb
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.dll
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/refint/ResultSystem.dll
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.pdb
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ResultSystem.genruntimeconfig.cache
+/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/Debug/net8.0/ref/ResultSystem.dll

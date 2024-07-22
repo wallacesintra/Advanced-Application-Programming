@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wallace/2003944/Advanced Application Programming/First_Console/First_Console.csproj": {}
+    "/home/wallace/2003944/Advanced Application Programming/ResultSystem/ResultSystem.csproj": {}
   },
   "projects": {
-    "/home/wallace/2003944/Advanced Application Programming/First_Console/First_Console.csproj": {
+    "/home/wallace/2003944/Advanced Application Programming/ResultSystem/ResultSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wallace/2003944/Advanced Application Programming/First_Console/First_Console.csproj",
-        "projectName": "First_Console",
-        "projectPath": "/home/wallace/2003944/Advanced Application Programming/First_Console/First_Console.csproj",
+        "projectUniqueName": "/home/wallace/2003944/Advanced Application Programming/ResultSystem/ResultSystem.csproj",
+        "projectName": "ResultSystem",
+        "projectPath": "/home/wallace/2003944/Advanced Application Programming/ResultSystem/ResultSystem.csproj",
         "packagesPath": "/home/wallace/.nuget/packages/",
-        "outputPath": "/home/wallace/2003944/Advanced Application Programming/First_Console/obj/",
+        "outputPath": "/home/wallace/2003944/Advanced Application Programming/ResultSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wallace/.nuget/NuGet/NuGet.Config"
